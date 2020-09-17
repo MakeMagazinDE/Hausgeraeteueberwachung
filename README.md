@@ -10,6 +10,6 @@ Hausgeräte-Überwachung mit Fritzbox und Telegram aus Make 5/20
 
 Anhand des Energieverbrauchs melden DECT-Steckdosen über die Fritzbox per Telegram-Bots Nachrichten aufs Smartphone.
 
-![Picture](https://github.com/MakeMagazinDE/Selbstbaugiessautomat/blob/master/IMG_0160_klein.JPG) 
+![Picture](https://github.com/MakeMagazinDE/Hausgeraeteueberwachung/blob/master/Titelbild_Alternative_12.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/2020 ab Seite 34](https://www.heise.de/select/make/2020/2/1587400432482472) zu lesen. 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 5/2020 ab Seite 66 zu lesen. 
